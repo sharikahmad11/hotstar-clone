@@ -6,13 +6,13 @@ const Login = (props) => {
         <Container>
             <Content>
                 <CTA>
-                    <CTALogoOne src='/images/cta-logo-one.svg' />
+                    <CTALogoOne src="https://raw.githubusercontent.com/sharikahmad11/hotstar-clone/412896923c8ed46db08ab6d4f1cbd5e61398293f/images/cta-logo-one.svg" />
                     <SignUp>GET ALL THERE</SignUp>
                     <Description>
                         Get Premier Access of Raya and the Last Dragon for an additional fee with a Disney+ subscription.
                         As of 31/10/2021, the price of Disney+ and Disney Bundle will increase by 500Rs. 
                     </Description>
-                    <CTALogoTwo src='/images/cta-logo-two.png' />
+                    <CTALogoTwo src="https://github.com/sharikahmad11/hotstar-clone/blob/master/images/cta-logo-two.png?raw=true" />
                 </CTA>
                 <BgImage />
             </Content>
