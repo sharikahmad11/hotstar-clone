@@ -60,27 +60,27 @@ const Header = (props) => {
             <>
             <NavMenu>
                 <a href="/home" >
-                    <img src="/images/home-icon.svg" alt="HOME" />
+                    <img src="https://raw.githubusercontent.com/sharikahmad11/hotstar-clone/019d12820ebcbc20a6cbfbb96011b4671901d7e4/images/home-icon.svg" alt="HOME" />
                     <span>HOME</span>
                 </a>
                 <a href="/home" >
-                    <img src="/images/search-icon.svg" alt="SEARCH" />
+                    <img src="https://raw.githubusercontent.com/sharikahmad11/hotstar-clone/019d12820ebcbc20a6cbfbb96011b4671901d7e4/images/search-icon.svg" alt="SEARCH" />
                     <span>SEARCH</span>
                 </a>
                 <a href="/home" >
-                    <img src="/images/watchlist-icon.svg" alt="WATCHLIST" />
+                    <img src="https://raw.githubusercontent.com/sharikahmad11/hotstar-clone/019d12820ebcbc20a6cbfbb96011b4671901d7e4/images/watchlist-icon.svg" alt="WATCHLIST" />
                     <span>WATCHLIST</span>
                 </a>
                 <a href="/home" >
-                    <img src="/images/original-icon.svg" alt="ORIGINALS" />
+                    <img src="https://raw.githubusercontent.com/sharikahmad11/hotstar-clone/019d12820ebcbc20a6cbfbb96011b4671901d7e4/images/original-icon.svg" alt="ORIGINALS" />
                     <span>ORIGINALS</span>
                 </a>
                 <a href="/home" >
-                    <img src="/images/movie-icon.svg" alt="MOVIES" />
+                    <img src="https://raw.githubusercontent.com/sharikahmad11/hotstar-clone/019d12820ebcbc20a6cbfbb96011b4671901d7e4/images/movie-icon.svg" alt="MOVIES" />
                     <span>MOVIES</span>
                 </a>
                 <a href="/home" >
-                    <img src="/images/series-icon.svg" alt="SERIES" />
+                    <img src="https://raw.githubusercontent.com/sharikahmad11/hotstar-clone/019d12820ebcbc20a6cbfbb96011b4671901d7e4/images/series-icon.svg" alt="SERIES" />
                     <span>SERIES</span>
                 </a>
             </NavMenu>
