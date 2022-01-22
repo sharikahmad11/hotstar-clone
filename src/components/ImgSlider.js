@@ -19,22 +19,22 @@ const ImgSlider = (props) => {
             <Carousel {...settings}>
                 <Wrap>
                     <a>
-                        <img src='/images/slider-badging.jpg' alt="" />
+                        <img src='https://github.com/sharikahmad11/hotstar-clone/blob/master/images/slider-badging.jpg?raw=true' alt="" />
                     </a>
                 </Wrap>
                 <Wrap>
                     <a>
-                        <img src='/images/slider-scale.jpg' alt="" />
+                        <img src='https://github.com/sharikahmad11/hotstar-clone/blob/master/images/slider-scale.jpg?raw=true' alt="" />
                     </a>
                 </Wrap>
                 <Wrap>
                     <a>
-                        <img src='/images/slider-badag.jpg' alt="" />
+                        <img src='https://github.com/sharikahmad11/hotstar-clone/blob/master/images/slider-badag.jpg?raw=true' alt="" />
                     </a>
                 </Wrap>
                 <Wrap>
                     <a>
-                        <img src='/images/slider-scales.jpg' alt="" />
+                        <img src='https://github.com/sharikahmad11/hotstar-clone/blob/master/images/slider-scales.jpg?raw=true' alt="" />
                     </a>
                 </Wrap>
             </Carousel>
