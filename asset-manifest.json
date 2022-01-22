@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hotstar-clone/static/css/main.b453b5ea.chunk.css",
-    "main.js": "/hotstar-clone/static/js/main.48047b2c.chunk.js",
-    "main.js.map": "/hotstar-clone/static/js/main.48047b2c.chunk.js.map",
+    "main.js": "/hotstar-clone/static/js/main.a954336a.chunk.js",
+    "main.js.map": "/hotstar-clone/static/js/main.a954336a.chunk.js.map",
     "runtime-main.js": "/hotstar-clone/static/js/runtime-main.f5c57626.js",
     "runtime-main.js.map": "/hotstar-clone/static/js/runtime-main.f5c57626.js.map",
     "static/css/2.0cb4cd37.chunk.css": "/hotstar-clone/static/css/2.0cb4cd37.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.0cb4cd37.chunk.css",
     "static/js/2.8b376c39.chunk.js",
     "static/css/main.b453b5ea.chunk.css",
-    "static/js/main.48047b2c.chunk.js"
+    "static/js/main.a954336a.chunk.js"
   ]
 }
