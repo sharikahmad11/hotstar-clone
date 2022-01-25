@@ -22,10 +22,10 @@ const ImgSlider = (props) => {
                         <img src='https://github.com/sharikahmad11/hotstar-clone/blob/master/images/slider-badging.jpg?raw=true' alt="" />
                     </a>
                 </Wrap>
-                <Wrap>
+                <Wrap> 
                     <a>
                         <img src='https://github.com/sharikahmad11/hotstar-clone/blob/master/images/slider-scale.jpg?raw=true' alt="" />
-                    </a>
+                    </a>  
                 </Wrap>
                 <Wrap>
                     <a>
