@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 node_modules
 =======
+=======
+>>>>>>> parent of fd7a8a6e (Merge branch 'master' of https://github.com/sharikahmad11/hotstar-clone)
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -24,4 +27,7 @@ node_modules
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
 >>>>>>> parent of fd7a8a6 (Merge branch 'master' of https://github.com/sharikahmad11/hotstar-clone)
+=======
+>>>>>>> parent of fd7a8a6e (Merge branch 'master' of https://github.com/sharikahmad11/hotstar-clone)

@@ -1,35 +1,24 @@
 {
   "files": {
-<<<<<<< HEAD:asset-manifest.json
     "main.css": "/hotstar-clone/static/css/main.d4b90b53.chunk.css",
-    "main.js": "/hotstar-clone/static/js/main.b249cde9.chunk.js",
-    "main.js.map": "/hotstar-clone/static/js/main.b249cde9.chunk.js.map",
-=======
-    "main.css": "/hotstar-clone/static/css/main.b453b5ea.chunk.css",
     "main.js": "/hotstar-clone/static/js/main.a954336a.chunk.js",
     "main.js.map": "/hotstar-clone/static/js/main.a954336a.chunk.js.map",
->>>>>>> parent of 69291371 (Updates):build/asset-manifest.json
     "runtime-main.js": "/hotstar-clone/static/js/runtime-main.f5c57626.js",
     "runtime-main.js.map": "/hotstar-clone/static/js/runtime-main.f5c57626.js.map",
-    "static/css/2.0cb4cd37.chunk.css": "/hotstar-clone/static/css/2.0cb4cd37.chunk.css",
-    "static/js/2.8b376c39.chunk.js": "/hotstar-clone/static/js/2.8b376c39.chunk.js",
-    "static/js/2.8b376c39.chunk.js.map": "/hotstar-clone/static/js/2.8b376c39.chunk.js.map",
+    "static/css/2.6b7ae0d2.chunk.css": "/hotstar-clone/static/css/2.6b7ae0d2.chunk.css",
+    "static/js/2.445a88ee.chunk.js": "/hotstar-clone/static/js/2.445a88ee.chunk.js",
+    "static/js/2.445a88ee.chunk.js.map": "/hotstar-clone/static/js/2.445a88ee.chunk.js.map",
     "index.html": "/hotstar-clone/index.html",
-    "static/css/2.0cb4cd37.chunk.css.map": "/hotstar-clone/static/css/2.0cb4cd37.chunk.css.map",
-    "static/css/main.b453b5ea.chunk.css.map": "/hotstar-clone/static/css/main.b453b5ea.chunk.css.map",
-    "static/js/2.8b376c39.chunk.js.LICENSE.txt": "/hotstar-clone/static/js/2.8b376c39.chunk.js.LICENSE.txt",
+    "static/css/2.6b7ae0d2.chunk.css.map": "/hotstar-clone/static/css/2.6b7ae0d2.chunk.css.map",
+    "static/css/main.d4b90b53.chunk.css.map": "/hotstar-clone/static/css/main.d4b90b53.chunk.css.map",
+    "static/js/2.445a88ee.chunk.js.LICENSE.txt": "/hotstar-clone/static/js/2.445a88ee.chunk.js.LICENSE.txt",
     "static/media/slick-theme.css": "/hotstar-clone/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.f5c57626.js",
-    "static/css/2.0cb4cd37.chunk.css",
-    "static/js/2.8b376c39.chunk.js",
-<<<<<<< HEAD:asset-manifest.json
+    "static/css/2.6b7ae0d2.chunk.css",
+    "static/js/2.445a88ee.chunk.js",
     "static/css/main.d4b90b53.chunk.css",
-    "static/js/main.b249cde9.chunk.js"
-=======
-    "static/css/main.b453b5ea.chunk.css",
     "static/js/main.a954336a.chunk.js"
->>>>>>> parent of 69291371 (Updates):build/asset-manifest.json
   ]
 }
